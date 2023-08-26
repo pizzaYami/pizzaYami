@@ -1,6 +1,9 @@
 ### Hi there 👋
-https://capsule-render.vercel.app/api?
+
+![header](https://capsule-render.vercel.app/api?color=auto)
+
 <!--
+
 **pizzaYami/pizzaYami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+    

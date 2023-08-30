@@ -1,6 +1,4 @@
-### Hi there 👋
-
-![header](https://capsule-render.vercel.app/api?color=auto)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&text=Cho%20YongJu-nl-Welcom%20my%20GitHub%20Profile)
 
 <!--
 

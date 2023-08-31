@@ -1,4 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&text=Cho%20YongJu&desc=Welcome%20my%20GitHub%20Profile&fontAlignY=40&descSize=30&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&text=Welcome&desc=Yongju's%20%20GitHub%20Profile&fontAlignY=40&descSize=20&descAlignY=50&descAlign=55&animation=fadeIn)
+
+Email
+cyj9407@naver.com
+
+
 
 <!--
 

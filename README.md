@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=350&text=Welcome&desc=Yongju's%20%20GitHub%20Profile&fontAlignY=40&descSize=20&descAlignY=50&descAlign=55&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&text=Welcome&desc=Yongju's%20%20GitHub%20Profile&fontAlignY=40&descSize=20&descAlignY=55&descAlign=55&animation=fadeIn)
 
 ## 🔥 Email & Blog 🔥 
 ![Static Badge](https://img.shields.io/badge/cyj9407%40naver.com-%23EA4335?style=for-the-badge&logo=gmail&color=white)
-![Static Badge](https://img.shields.io/badge/blog-%23FF4785?style=for-the-badge&logo=storyblok&color=white&link=https%3A%2F%2Fcho9407.tistory.com%2F)
-
+<img alt="Static Badge" src="https://img.shields.io/badge/blog-%2309B3AF?style=for-the-badge&logo=storyblok&logoColor=white&link=https%3A%2F%2Fcho9407.tistory.com%2F">
 
 
 ## 🛠︎ Tech Stack 🛠︎ 

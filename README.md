@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&text=Welcome&desc=Yongju's%20%20GitHub%20Profile&fontAlignY=40&descSize=20&descAlignY=55&descAlign=55&animation=fadeIn)
 
-<🖥️>매일 성장하는 프론트엔드 신입 개발자 조용주입니다.</🖥️>
+매일 성장하는 프론트엔드 신입 개발자 조용주입니다.
 
 ## 🔥 Email & Blog 🔥 
 ![Static Badge](https://img.shields.io/badge/cyj9407%40naver.com-%23EA4335?style=for-the-badge&logo=gmail&color=white)

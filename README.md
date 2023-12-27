@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&descSize=20&descAlignY=55&descAlign=55&animation=fadeIn)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&size=40&pause=1000&center=true&vCenter=true&random=true&width=600&height=150&lines=Welcome+to+yongju's+Github!%F0%9F%91%8B;Leaf%EC%97%90%EC%84%9C+Root%EB%A1%9C+%EB%8B%AC%EB%A0%A4%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%F0%9F%8C%BF)](https://git.io/typing-svg)
-
-🌿 leaf에서 root로 달려가는 개발자 🌿
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playpen+Sans&size=40&pause=1000&center=true&vCenter=true&random=false&width=600&height=150&lines=Welcome+to+yongju's+Github!%F0%9F%91%8B;Leaf%EC%97%90%EC%84%9C+Root%EB%A1%9C+%EB%8B%AC%EB%A0%A4%EA%B0%80%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%F0%9F%8C%BF)](https://git.io/typing-svg)
 
 
 # 🔥 Email & Blog 🔥 

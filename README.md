@@ -26,8 +26,7 @@
 
 <br><br>
 
-# Cards
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pizzaYami&show_icons=true&theme=swift)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5&layout=compact)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pizzaYami&show_icons=true&theme=swift)
 </div>
 
